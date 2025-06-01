@@ -1,0 +1,17 @@
+1. Load the Dataset: Import the dataset into a DataFrame.
+
+2. Initial Exploration: Preview the first few rows to understand the structure and contents.
+
+3. Inspect Data Types: Check the data types of columns to ensure they are correctly formatted.
+
+4. Check for Missing Values: Identify any missing data and handle it accordingly (e.g., removal or imputation).
+
+5. Check for Duplicates: Look for and remove duplicate rows if they exist.
+
+6. Descriptive Statistics: Generate basic statistics (mean, median, min, max, etc.) to understand the data distribution.
+
+7. Drop Unnecessary Columns: Remove irrelevant columns that do not contribute to analysis or modeling.
+
+8.Convert Categorical Data: Encode categorical variables (e.g., using one-hot encoding) to prepare them for machine learning models.
+
+9. Feature Engineering: Create new features (e.g., extract year, month, day from date columns).
