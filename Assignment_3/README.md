@@ -40,7 +40,7 @@ The script generates an Excel file with the following columns:
 - **Book Price**: Price in the original currency
 - **Book State**: Availability status
 - **Book Rating**: Star rating in x/5 format
-
+- ![Image](https://github.com/user-attachments/assets/a3ca49df-d350-4976-83e0-59d955ee839e)
 ## Files
 - `Scraping_books.py` - Main scraping script
 - `site_link.txt` - Contains the target website URL
