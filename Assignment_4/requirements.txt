@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-pandas
-joblib
-xgboost
-scikit-learn
-streamlit
-requests
-numpy
