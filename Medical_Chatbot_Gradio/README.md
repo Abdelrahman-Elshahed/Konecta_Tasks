@@ -39,6 +39,17 @@ This project features a smart medical assistant chatbot designed to offer prelim
 
 ## Usage
 
+### Chainlit Interface
+
+Run:
+```bash
+chainlit run Medical_Chatbot_Chainlit.py -w
+```
+- Access at http://localhost:8000
+<img width="1919" height="992" alt="Image" src="https://github.com/user-attachments/assets/1aea027f-651e-4808-b9b7-af545cae13f7" />
+
+
+
 ### Gradio Interface
 
 Run:
@@ -49,11 +60,4 @@ python Medical_Chatbot_Gradio.py
 <img width="1919" height="987" alt="Image" src="https://github.com/user-attachments/assets/e375de65-ef1a-455f-89ca-4a9ca25cfe69" />
 <img width="1915" height="990" alt="Image" src="https://github.com/user-attachments/assets/5ef2615a-7d57-4783-b9f1-b806b54b0990" />
 
-### Chainlit Interface
 
-Run:
-```bash
-chainlit run Medical_Chatbot_Chainlit.py -w
-```
-- Access at http://localhost:8000
-<img width="1919" height="992" alt="Image" src="https://github.com/user-attachments/assets/1aea027f-651e-4808-b9b7-af545cae13f7" />
