@@ -53,7 +53,7 @@ python Medical_Chatbot_Gradio.py
 
 Run:
 ```bash
-chainlit run chainlit run chainlit_app.py -w
+chainlit run Medical_Chatbot_Chainlit.py -w
 ```
 - Access at http://localhost:8000
 <img width="1919" height="992" alt="Image" src="https://github.com/user-attachments/assets/1aea027f-651e-4808-b9b7-af545cae13f7" />
